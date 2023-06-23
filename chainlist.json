@@ -186,6 +186,7 @@
     "features": [
       {
         "name": "EIP155"
+        // comment
       },
       {
         "name": "EIP1559"
